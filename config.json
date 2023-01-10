@@ -1,5 +1,6 @@
 {
   "app1": "https://raw.githubusercontent.com/4tek-ekko/config_supper_app/main/app1/{platform}/v1",
   "app2": "https://raw.githubusercontent.com/4tek-ekko/config_supper_app/main/app2/{platform}/v1",
-  "app3": "https://raw.githubusercontent.com/4tek-ekko/config_supper_app/main/app3/{platform}/v1"
+  "app3": "https://raw.githubusercontent.com/4tek-ekko/config_supper_app/main/app3/{platform}/v1",
+  "app4": "https://raw.githubusercontent.com/4tek-ekko/config_supper_app/main/app4/{platform}/v1"
 }
