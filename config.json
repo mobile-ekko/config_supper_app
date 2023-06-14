@@ -1,8 +1,8 @@
 {
-      "data": {
-      "version": "0.0.1",
-    "appId": "app.id.ext",
-  "containerName": "app3",
-  "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app3/ios/app3.zip"
-}
+    "data": {
+        "version": "0.0.1",
+        "appId": "app.id.ext",
+        "containerName": "app3",
+        "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app3/ios/app3.zip"
+    }
 }
