@@ -8,7 +8,7 @@
             "appId": "v99.mini.ext",
             "appName": "Mini Test",
             "containerName": "app3",
-            "module": "./App3",
+            "module": "./App",
             "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app3/ios/app3.zip",
             "version": "0.0.1",
             "loadType": "Remote",
