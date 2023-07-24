@@ -13,6 +13,16 @@
             "version": "0.0.1",
             "loadType": "Remote",
             "type": "Container"
+        },
+        {
+            "appId": "v99.mini.test.wallet",
+            "appName": "Test wallet sdk",
+            "containerName": "Test_wallet",
+            "module": "./App",
+            "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app3/ios/app3.zip",
+            "version": "0.0.1",
+            "loadType": "Remote",
+            "type": "Container"
         }
     ]
 }
