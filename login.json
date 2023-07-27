@@ -29,7 +29,7 @@
             "appName": "Test ui sdk",
             "containerName": "test_ui",
             "module": "./App",
-            "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app4/testui.zip",
+            "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app4/ui.zip",
             "version": "0.0.1",
             "loadType": "Remote",
             "type": "Container"
