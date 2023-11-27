@@ -1,8 +1,14 @@
 {
-    "data": {
-        "version": "0.0.1",
-        "appId": "app.id.ext",
-        "containerName": "app3",
-        "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app3/ios/app3.zip"
-    }
+    "data": [
+        {
+            "appId": "com.mini.app.p2pd",
+            "appName": "P2PD",
+            "containerName": "p2pd",
+            "module": "./App",
+            "url": "https://github.com/mobile-ekko/config_supper_app/raw/main/app3/ios/app3.zip",
+            "version": "0.0.1",
+            "loadType": "GIT",
+            "type": "Container"
+        }
+    ]
 }
