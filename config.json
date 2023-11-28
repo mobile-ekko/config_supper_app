@@ -5,7 +5,7 @@
             "appName": "P2PD",
             "containerName": "p2pd",
             "module": "./App",
-            "url": "https://raw.githubusercontent.com/mobile-ekko/config_supper_app/main/mini/p2pd.container.bundle",
+            "url": "https://raw.githubusercontent.com/mobile-ekko/config_supper_app/main/mini",
             "version": "0.0.2",
             "loadType": "remote",
             "type": "Container"
