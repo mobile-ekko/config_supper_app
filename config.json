@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "appId": "com.mini.app.p2pd",
+            "appId": "com.mini.app.p2pd.test",
             "appName": "P2PD",
             "containerName": "p2pd",
             "module": "./App",
