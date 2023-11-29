@@ -1,13 +1,13 @@
 {
     "data": [
         {
-            "appId": "com.mini.app.p2pdtest",
+            "appId": "com.mini.app.p2pd",
             "appName": "P2PD",
-            "containerName": "p2pdtest",
+            "containerName": "p2pd",
             "module": "./App",
             "url": "https://raw.githubusercontent.com/mobile-ekko/config_supper_app/main/mini",
             "version": "0.0.1",
-            "loadType": "remote",
+            "loadType": "git",
             "type": "Container"
         }
     ]
